@@ -2,7 +2,7 @@ Hello, I'm Rogério.
 
 I'm a software engineer based in Braga, Portugal.
 
-Currently working at [Mindera](https://mindera.com).
+Currently working at [Blip](https://blip.pt).
 
 [My personal website](https://rgllm.com) <br />
 [LinkedIn](https://linkedin.com/in/rglm) <br />
