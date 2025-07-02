@@ -1,6 +1,6 @@
 Hello, I'm Rogério.
 
-I'm a software engineer based in Braga, Portugal. 
+I'm a software engineer based in Braga, Portugal. <br/>
 Currently leading the website team at [Sword Health](https://swordhealth.com).
 
 [My personal website](https://rgllm.com) <br />
